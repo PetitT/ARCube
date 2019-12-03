@@ -1,0 +1,7 @@
+Magicienne => Magicienne des Ténèbres
+Magicienne Goth => Nécromante des Ténèbres
+Magicienne Halloween => Socière des Ténèbres
+
+
+Magicienne Noel => Magicienne de Noël
+Magicienne Brazil => Brésilienne des Ténèbres
